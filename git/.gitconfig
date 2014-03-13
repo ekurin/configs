@@ -1,0 +1,16 @@
+[user]
+	name = Erik Kurin
+	email = ekurin@gmail.com
+[alias]
+	s = status
+	difff = diff --cached
+[push]
+	default = simple
+[help]
+	autocorrect = 1
+[branch]
+	autosetuprebase = always
+[color]
+	ui = true
+[core]
+	excludesfile = ~/.gitignore_global
