@@ -1,0 +1,22 @@
+{
+	"line_numbers": true,
+	"fold_buttons": true,
+	"fade_fold_buttons": false,
+	"rulers": [80],
+	"detect_indentation": true,
+	"trim_automatic_white_space": true,
+	"highlight_line": true,
+	"bold_folder_labels": true,
+	"trim_trailing_white_space_on_save": true,
+	 "highlight_modified_tabs": true,
+
+	"ignored_packages":
+	[
+	],
+	"draw_white_space": "all",
+	"draw_indent_guides": true,
+	"indent_guide_options":
+	[
+		"draw_active"
+	]
+}
