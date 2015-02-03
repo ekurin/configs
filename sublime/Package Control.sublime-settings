@@ -1,4 +1,8 @@
 {
+	"in_process_packages":
+	[
+		"Vintageous"
+	],
 	"installed_dependencies":
 	[
 		"0_package_control_loader",
@@ -6,9 +10,14 @@
 	],
 	"installed_packages":
 	[
+		"BeautifyRuby",
 		"Djaneiro",
+		"ERB Snippets",
 		"GitGutter",
+		"HTMLBeautify",
 		"Package Control",
-		"VintageLines"
+		"SideBarEnhancements",
+		"VintageLines",
+		"Vintageous"
 	]
 }
